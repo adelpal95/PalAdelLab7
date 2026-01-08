@@ -19,17 +19,12 @@
                 SemanticProperties.HeadingLevel="Level1" />
 
             <Label
-                Text="Welcome to &#10; the gardener App "
+                Text="I'm Leda, and I like plants and developing web applications."
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to the gardener App " />
+                SemanticProperties.Description="I am Leda" />
             
-            <Label
-                Text="I'm Leda, and I like plants and developing web applications. "
-                Style="{StaticResource SubHeadline}"
-                SemanticProperties.HeadingLevel="Level3"
-                SemanticProperties.Description="I am Leda " />
-            
+           
 
             <Button
                 x:Name="CounterBtn"
